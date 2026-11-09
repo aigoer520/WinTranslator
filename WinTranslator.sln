@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTranslator", "WinTranslator.csproj", "{7E3A1C24-5B6D-4F0E-9A81-2D4C6E7F1A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3A1C24-5B6D-4F0E-9A81-2D4C6E7F1A09}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{7E3A1C24-5B6D-4F0E-9A81-2D4C6E7F1A09}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+		{7E3A1C24-5B6D-4F0E-9A81-2D4C6E7F1A09}.Release|Any CPU.ActiveCfg = Release|AnyCPU
+		{7E3A1C24-5B6D-4F0E-9A81-2D4C6E7F1A09}.Release|Any CPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
